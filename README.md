@@ -1,0 +1,2 @@
+# Analysez-des-indicateurs-de-l-egalite-femme-homme-avec-Knime
+Projet réalisé dans le cadre de la formation en data analyst réalisée par OpenClassrooms en partenariat avec l'ENSAE. L'objectif est le calcul des indicateurs de mesure des écarts professionnels entre hommes et femme. Compétences mises en exergue: Utilisation du logiciel knime pour la préparation des données;  Collecte des données en respectant le RGPD.
